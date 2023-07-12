@@ -64,5 +64,5 @@ export const DefaultMeta: PageMeta = {
     alt: 'The image of the Nuxt TS Firebase Auth SSR web'
   },
   url: process.env.WEBSITE_URL,
-  tags: 'nuxtsocial,nuxt,ssr,firebase,firebaseauth,firebasefunctions,rslvn'
+  tags: 'nuxtsocial,nuxt,ssr,firebase,firebaseauth,firebasefunctions,Santiago'
 }

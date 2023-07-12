@@ -30,7 +30,7 @@ const messages = {
       coverPhoto: 'Kapak fotografi',
       privacy: 'Gizlilik',
       search: 'Ara',
-      searchPlaceholder: 'ornegin: rslvn'
+      searchPlaceholder: 'ornegin: Santiago'
     },
     cancel: 'Iptal',
     save: 'Kaydet',

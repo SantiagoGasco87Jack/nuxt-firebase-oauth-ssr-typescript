@@ -4,7 +4,7 @@
 
     <div class="columns is-centered">
       <div class="column is-5-desktop">
-        <a class="box has-text-centered" href="https://github.com/rslvn/nuxt-typescript-ssr-firebase-auth">
+        <a class="box has-text-centered" href="https://github.com/SantiagoGasco87Jack/nuxt-ssr-firebase-oauth-typescript">
           <b-icon
             pack="fab"
             icon="github"

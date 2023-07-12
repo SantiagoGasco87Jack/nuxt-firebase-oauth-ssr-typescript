@@ -29,7 +29,7 @@ const messages = {
       coverPhoto: 'cover photo',
       privacy: 'privacy',
       search: 'search',
-      searchPlaceholder: 'e.g. rslvn'
+      searchPlaceholder: 'e.g. Santiago'
     },
     cancel: 'Cancel',
     save: 'Save',
